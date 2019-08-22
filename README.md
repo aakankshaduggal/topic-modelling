@@ -1,9 +1,13 @@
 # Topic Modelling
 Allows the user to :
 1. Find out the best number of topics the document should be divided into using 
-   ..1 [Weighted Jaccard Average Stability](https://rpubs.com/lgadar/weighted-jaccard) : Similarity index 
-    ..2 [Symmetric Kullback Liebler divergence](https://bigdatascientistblog.wordpress.com/2017/09/11/a-simple-introduction-to-kullback-leibler-divergence-through-python-code/) : Dis-similarity index 
-2.
+
+   1.1 [Weighted Jaccard Average Stability](https://rpubs.com/lgadar/weighted-jaccard) : Similarity index 
+   
+   1.2 [Symmetric Kullback Liebler divergence](https://bigdatascientistblog.wordpress.com/2017/09/11/a-simple-introduction-to-kullback-leibler-divergence-through-python-code/) : Dis-similarity index 
+2. Prepare a list of the topics and their description
+3. Plot top words
+4. Evolution of the frequencies of the topic (topic vs time)
 
 
 ## Features
